@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="load_async">Одну секундочку, пожалуйста, мы загружаем новости</string>
+    <string name="run">Бег</string>
+    <string name="box">Бокс</string>
+    <string name="hockey">Хоккей</string>
+    <string name="handball">Гандбол</string>
+    <string name="aquatics">Плавание</string>
+    <string name="football">Футбол</string>
+    <string name="tennis">Теннис</string>
+    <string name="ski">Лыжи</string>
+    <string name="main">Главная</string>
+</resources>
